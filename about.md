@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 死んで花実が咲くものか
 
-### More Information
+  不知道为什么起这个标题，这是突然的冒出来的念头，这句话对我就像是一个新起点，也许是因为这是你让我反复记忆的第一句话的缘故吧。从今天起这里将记录着让我饱受煎熬的一切思念，不为让谁知道，只为我的情感有一个寄托的场所.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+晓看天色暮看云
